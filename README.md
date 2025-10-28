@@ -1,2 +1,2 @@
 # EO_Introduction
-Hello, Welcome! This is my firts README
+Hello, Welcome! This is my first README
